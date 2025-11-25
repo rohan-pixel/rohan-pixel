@@ -43,6 +43,5 @@ At TechLearn India, we’re leveraging cutting-edge technologies to revolutioniz
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohan-pixel&theme=react-dark)  
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rohan-pixel?theme=tokyonight)](https://git.io/awesome-stats-card)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rohan-pixel?cardType=octocat&preferLogin=false)](https://git.io/awesome-stats-card)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
