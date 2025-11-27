@@ -2,6 +2,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&color=FFFFFF&center=true&vCenter=true&width=600&lines=Rohan+Nigam+%7C+CTO;Scaling+Products+for+Modern+Businesses;AI+%2B+Cloud+%2B+Engineering+Leadership;Building+Future-Ready+Digital+Platforms">
 </p>
 
+<!-- ============================================================ -->
+<!--   PREMIUM BUTTON SET — CXO PORTFOLIO (ALL VARIANTS BELOW)   -->
+<!-- ============================================================ -->
+
+<!-- <p align="center">
+  <a href="http://cxosummit.devhirehub.in/" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=rohan-pixel&color=3b82f6&style=flat-square&label=View%20CXO%20Portfolio" />
+  </a>
+</p> -->
+
+
+<p align="center"> <a href="http://cxosummit.devhirehub.in/" target="_blank"> <img src="https://img.shields.io/badge/VIEW%20CXO%20PORTFOLIO-3b82f6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=3b82f6" /> </a> </p>
+
+
+
+<!-- ============================================================ -->
+<!-- END OF ALL BUTTON VARIANTS -->
+<!-- ============================================================ -->
+
+
+
 <h3 align="center">Co-founder & Chief Technology Officer (CTO) — <a href="https://app.techlearnindia.com">TechLearn India</a></h3>
 
 <p align="center">
