@@ -52,7 +52,7 @@ I specialize in building systems that are **fast, reliable, scalable, and busine
 
 # 🚀 Leadership Snapshot  
 - Co-founded **TechLearn India**, delivering scalable digital learning tools  
-- Built & optimized systems serving **10,000+ active learners**  
+- Built & optimized systems serving **65,000+ active learners**  
 - Led engineering teams, implemented DevOps-first culture  
 - Delivered end-to-end solutions for **startups, agencies & enterprise clients**  
 - Architected LMS, SaaS platforms, AI tools, and real-time web applications  
