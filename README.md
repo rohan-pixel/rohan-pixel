@@ -13,7 +13,7 @@
 </p> -->
 
 
-<p align="center"> <a href="http://cxosummit.devhirehub.in/" target="_blank"> <img src="https://img.shields.io/badge/VIEW%20CXO%20PORTFOLIO-3b82f6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=3b82f6" /> </a> </p>
+<p align="center"> <a href="http://cxosummit.devhirehub.in/" target="__blank"> <img src="https://img.shields.io/badge/VIEW%20CXO%20PORTFOLIO-3b82f6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=3b82f6" /> </a> </p>
 
 
 
