@@ -141,7 +141,7 @@ I work with founders, startups & companies to build modern, scalable tech:
 
 # 🏆 Top Languages ⭐
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-pixel&layout=compact&theme=tokyonight&hide_border=true" /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-pixel&layout=compact&theme=tokyonight&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-pixel&layout=pie&theme=radical)](https://github.com/rohan-pixel)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-pixel&theme=radical)](https://github.com/rohan-pixel)
