@@ -2,26 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&color=FFFFFF&center=true&vCenter=true&width=600&lines=Rohan+Nigam+%7C+CTO;Scaling+Products+for+Modern+Businesses;AI+%2B+Cloud+%2B+Engineering+Leadership;Building+Future-Ready+Digital+Platforms">
 </p>
 
-<!-- ============================================================ -->
-<!--   PREMIUM BUTTON SET — CXO PORTFOLIO (ALL VARIANTS BELOW)   -->
-<!-- ============================================================ -->
-
-<!-- <p align="center">
-  <a href="http://cxosummit.devhirehub.in/" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=rohan-pixel&color=3b82f6&style=flat-square&label=View%20CXO%20Portfolio" />
-  </a>
-</p> -->
-
-
 <p align="center"> <a href="http://cxosummit.devhirehub.in/" target="__blank"> <img src="https://img.shields.io/badge/VIEW%20CXO%20PORTFOLIO-3b82f6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=3b82f6" /> </a> </p>
-
-
-
-<!-- ============================================================ -->
-<!-- END OF ALL BUTTON VARIANTS -->
-<!-- ============================================================ -->
-
-
 
 <h3 align="center">Co-founder & Chief Technology Officer (CTO) — <a href="https://app.techlearnindia.com">TechLearn India</a></h3>
 
@@ -40,7 +21,7 @@ I specialize in building systems that are **fast, reliable, scalable, and busine
 ---
 
 # 🎯 Core Specializations  
-- Enterprise-grade **Frontend Engineering** (Angular, React, Astro, Web Performance)  
+- Enterprise-grade **Frontend Engineering** (NextJS, Angular, React, Astro, Web Performance)  
 - **Supabase & Firebase Architectures** for rapid product launches  
 - **Cloud-native Infrastructure** (AWS, GCP, Azure – Load Balancing, Scaling, Serverless)  
 - **AI Integrations**, automation pipelines & intelligent workflows  
@@ -82,11 +63,11 @@ I work with founders, startups & companies to build modern, scalable tech:
 # 🧠 Expertise & Skills
 
 ## 🎨 Frontend Engineering  
-- Angular • React • Astro • JavaScript • TypeScript  
+- NextJs • Angular • React • Astro • JavaScript • TypeScript  
 - Clean UI/UX • Performance Optimization • Scalable Architecture  
 
 ## ☁️ Cloud & Infrastructure  
-- AWS • GCP • Azure  
+- AWS • GCP • Azure • Heroku • Netlify • Vercel • Onrender • Railway.com 
 - Load Balancing • Auto-Scaling • Serverless • Storage • CDN  
 
 ## 🔧 DevOps & CI/CD  
@@ -94,7 +75,7 @@ I work with founders, startups & companies to build modern, scalable tech:
 - Infra-as-code • Zero-downtime deployments  
 
 ## 🔋 Backend-as-a-Service  
-- Firebase • Supabase • Hasura • FaunaDB  
+- Firebase • Supabase • Hasura • FaunaDB 
 - Realtime apps • Authentication • Functions  
 
 ---
@@ -109,7 +90,7 @@ I work with founders, startups & companies to build modern, scalable tech:
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,graphql,postgres,mongodb,mysql,nginx,docker,kubernetes,aws,gcp,azure" /><br>
 
 <!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,figma,vscode,netlify,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,figma,vscode,netlify,vercel,heroku,onrender,railway" />
 
 </p>
 
