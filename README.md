@@ -92,6 +92,16 @@ I work with founders, startups & companies to build modern, scalable tech:
 <!-- Tools -->
 <img src="https://skillicons.dev/icons?i=git,github,linux,postman,figma,vscode,netlify,vercel,heroku,onrender,railway" />
 
+
+<img src="https://skillicons.dev/icons?i=angular,react,astro,next,vue,svelte,solidjs,js,ts,html,css,redux,tailwind,bootstrap,sass,materialui,threejs" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,deno,fastapi,python,php,laravel,graphql,apollo,postgres,mongodb,mysql,redis,prisma,firebase,supabase,nginx,docker,kubernetes,aws,gcp,azure,cloudflare,vercel,netlify" />
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,linux,bash,powershell,postman,figma,vscode,jetbrains,webpack,rollup,turborepo,eslint,prettier,heroku,railway,onrender" />
+
+<img src="https://skillicons.dev/icons?i=prisma,rust,go,java,kotlin,flutter,dart,swift,terraform,ansible,jenkins,selenium,cypress,vitest,jest,sqlite,planetscale,cloudflareworkers,sentry,stripe,openai" />
+
+
 </p>
 
 ---
