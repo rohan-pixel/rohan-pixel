@@ -80,27 +80,25 @@ I work with founders, startups & companies to build modern, scalable tech:
 
 ---
 
-# 🧱 Tech Stack  
+# 🧱 Technology Stack
 <p align="left">
 
-<!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=angular,react,astro,js,ts,html,css,next,redux,tailwind,bootstrap,sass" /><br>
-
-<!-- Backend / Cloud -->
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,graphql,postgres,mongodb,mysql,nginx,docker,kubernetes,aws,gcp,azure" /><br>
-
-<!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,figma,vscode,netlify,vercel,heroku,onrender,railway" />
-
-
-<img src="https://skillicons.dev/icons?i=angular,react,astro,next,vue,svelte,solidjs,js,ts,html,css,redux,tailwind,bootstrap,sass,materialui,threejs" />
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,deno,fastapi,python,php,laravel,graphql,apollo,postgres,mongodb,mysql,redis,prisma,firebase,supabase,nginx,docker,kubernetes,aws,gcp,azure,cloudflare,vercel,netlify" />
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,linux,bash,powershell,postman,figma,vscode,jetbrains,webpack,rollup,turborepo,eslint,prettier,heroku,railway,onrender" />
-
-<img src="https://skillicons.dev/icons?i=prisma,rust,go,java,kotlin,flutter,dart,swift,terraform,ansible,jenkins,selenium,cypress,vitest,jest,sqlite,planetscale,cloudflareworkers,sentry,stripe,openai" />
-
+🚀 Frontend Engineering
+<p> <img src="https://skillicons.dev/icons?i=react,next,angular,vue,svelte,astro,solidjs,js,ts,html,css,redux,tailwind,bootstrap,sass,materialui,threejs" /> </p>
+⚙️ Backend Engineering
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,deno,fastapi,python,php,laravel,graphql,apollo,redis,prisma" /> </p>
+🗄️ Databases & Storage
+<p> <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,planetscale,firebase,supabase" /> </p>
+☁️ Cloud & Infrastructure
+<p> <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,nginx,docker,kubernetes,terraform,ansible" /> </p>
+🔁 DevOps, CI/CD & Automation
+<p> <img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket,jenkins,webpack,vercel,netlify,heroku" /> </p>
+🧪 Testing & QA
+<p> <img src="https://skillicons.dev/icons?i=jest,vitest,cypress,selenium" /> </p>
+🧰 Developer Tools
+<p> <img src="https://skillicons.dev/icons?i=git,linux,bash,powershell,postman,figma,vscode,jetbrains,eslint,prettier" /> </p>
+🧠 Advanced / Leadership-Level Technologies
+<p> <img src="https://skillicons.dev/icons?i=rust,go,java,flutter,swift," /> </p>
 
 </p>
 
