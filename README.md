@@ -85,18 +85,25 @@ I work with founders, startups & companies to build modern, scalable tech:
 
 🚀 Frontend Engineering
 <p> <img src="https://skillicons.dev/icons?i=react,next,angular,vue,svelte,astro,solidjs,js,ts,html,css,redux,tailwind,bootstrap,sass,materialui,threejs" /> </p>
+
 ⚙️ Backend Engineering
 <p> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,deno,fastapi,python,php,laravel,graphql,apollo,redis,prisma" /> </p>
+
 🗄️ Databases & Storage
 <p> <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,planetscale,firebase,supabase" /> </p>
+
 ☁️ Cloud & Infrastructure
 <p> <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,nginx,docker,kubernetes,terraform,ansible" /> </p>
+
 🔁 DevOps, CI/CD & Automation
 <p> <img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket,jenkins,webpack,vercel,netlify,heroku" /> </p>
+
 🧪 Testing & QA
 <p> <img src="https://skillicons.dev/icons?i=jest,vitest,cypress,selenium" /> </p>
+
 🧰 Developer Tools
 <p> <img src="https://skillicons.dev/icons?i=git,linux,bash,powershell,postman,figma,vscode,jetbrains,eslint,prettier" /> </p>
+
 🧠 Advanced / Leadership-Level Technologies
 <p> <img src="https://skillicons.dev/icons?i=rust,go,java,flutter,swift," /> </p>
 
@@ -133,6 +140,7 @@ I work with founders, startups & companies to build modern, scalable tech:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-pixel&layout=compact&theme=tokyonight&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-pixel&layout=pie&theme=radical)](https://github.com/rohan-pixel)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-pixel&theme=radical)](https://github.com/rohan-pixel)
 
 
