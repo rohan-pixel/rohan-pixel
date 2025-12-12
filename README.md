@@ -123,9 +123,9 @@ I work with founders, startups & companies to build modern, scalable tech:
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/rohan-pixel?theme=dark&cardType=github" height="180" />
 </a>
 
-<!-- <a href="https://github.com/rohan-pixel">
+<a href="https://github.com/rohan-pixel">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-pixel&theme=dark&hide_border=true" height="180" />
-</a> -->
+</a> 
 
 <a href="https://github.com/rohan-pixel">
   <img src="https://github-readme-stats.vercel.app/api?username=rohan-pixel&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180" />
