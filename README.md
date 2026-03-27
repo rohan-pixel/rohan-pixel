@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&color=FFFFFF&center=true&vCenter=true&width=600&lines=Rohan+Nigam+%7C+CTO;Scaling+Products+for+Modern+Businesses;AI+%2B+Cloud+%2B+Engineering+Leadership;Building+Future-Ready+Digital+Platforms">
 </p>
 
-<p align="center"> <a href="http://cxosummit.devhirehub.in/" target="__blank"> <img src="https://img.shields.io/badge/VIEW%20CXO%20PORTFOLIO-3b82f6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=3b82f6" /> </a> </p>
+<p align="center"> <a href="http://cxo.devhirehub.in/" target="__blank"> <img src="https://img.shields.io/badge/VIEW%20CXO%20PORTFOLIO-3b82f6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=3b82f6" /> </a> </p>
 
 <h3 align="center">CEO & Chief Technology Officer (CTO) — <a href="https://app.techlearnindia.com">TechLearn India</a></h3>
 
